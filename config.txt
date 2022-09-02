@@ -20,6 +20,10 @@
 "birthday1": {"name": "爸爸", "birthday": "r1976-12-14"},
 # 生日2
 "birthday2": {"name": "妈妈", "birthday": "r1976-06-17"},
+"birthday3": {"name": "姐姐", "birthday": "r1998-11-17"},
+"birthday4": {"name": "舅舅", "birthday": "r1980-08-20"},
+"birthday5": {"name": "媇媇", "birthday": "r1982-08-12"},
+"birthday6": {"name": "贺帆帆", "birthday": "r2001-03-19"},
 # 在一起的日子，格式同上
 "love_date": "2021-01-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
